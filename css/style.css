@@ -1,6 +1,6 @@
-/* 11 */
+/* 1 */
 body,
-
+/* 10 */
 .header {
     background: black;
     font-family: 'Raleway', sans-serif;/* специальний цвет заливки для определленой страници с фото */
@@ -15,9 +15,9 @@ body,
 
 /* 10 */
 .header,
-
+/* 10 */
 .logo__link,
-
+/* 10 */
 .section__wrap {
     display: flex;
     flex-direction: row;
@@ -31,9 +31,9 @@ body,
 
 /* 10 */
 .logo__picture,
-
+/* 10 */
 .main__title,
-
+/* 10 */
 .section__img {
     width: 100%;/* ширина в 40% */
 }
@@ -45,11 +45,11 @@ body,
 
 /* 10 */
 .menu,
-
-/*.footer,*/
-
+/* 10 */
+.footer,
+/* 10 */
 .main__title,
-
+/* 10 */
 .section__wrap {
     display: flex;
     align-items: center;
@@ -58,55 +58,55 @@ body,
 
 /* 10 */
 .menu,
-
+/* 10 */
 .main__text,
-
+/* 10 */
 .section__title,
-
+/* 10 */
 .form {
     font-size: 1.5rem;
 }
 
 /* 10 */
 .menu__link,
-
+/* 10 */
 .section__title,
-
+/* 10 */
 .btn {
     text-decoration: none;/* без декорации нижней */
 }
 
-
+/* 10 */
 .section__title {
     color: rgb(188, 14, 129);
 }
 
-
+/* 10 */
 .main__btn {
     margin: 10% 0 2% 35%;
 }
 
-
+/* 10 */
 .menu__link,
-
+/* 1 */
 h1,
-
+/* 1 */
 h2,
-
+/* 1 */
 p,
-
+/* 10 */
 .main__text {
     color: white;
 }
 
-
+/* 20 */
 .menu__link:hover,
-
+/* 1 */
 h1 {
     text-shadow: 0 0 10px rgb(245, 59, 189),0 0 20px rgb(245, 59, 189),0 0 30px rgb(245, 59, 189),0 0 40px rgb(245, 59, 189);
 }
 
-
+/* 1 */
 h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 5rem;
@@ -123,44 +123,44 @@ h1,
     margin: 4%;
 }
 
-
+/* 1 */
 h2 {
     padding: 1% 0 2% 2%;
     font-size: 2rem;
 }
 
-
+/* 10 */
 .main__text,
-
+/* 10 */
 .btn,
-
+/* 10 */
 .footer,
-
+/* 10 */
 .main--spesial {
     background-color: rgb(188, 14, 129);
     padding: 1%;
 }
 
-
+/* 10 */
 .main__pic {
     width: 60%;
 }
 
-
+/* 1 */
 h2,
-
+/* 11 */
 .main__text p,
-
+/* 10 */
 .form {
     margin: 2% 20% 0 20%;
 }
 
-
+/* 10 */
 .section__section {
     width: 20%;
 }
 
-
+/* 10 */
 .main--spesial {
     margin: 0 16% 0 16%;
     padding: 5% 0 5% 0;
