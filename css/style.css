@@ -1,0 +1,167 @@
+/* 11 */
+body,
+
+.header {
+    background: black;
+    font-family: 'Raleway', sans-serif;/* специальний цвет заливки для определленой страници с фото */
+}
+
+/* 10 */
+.header {
+    justify-content:space-between;/* выравнивает элементы гибкого контейнера, когда элементы не используют все доступное пространство на главной оси (по горизонтали) */
+    position: fixed;
+    width: 100%;
+}
+
+/* 10 */
+.header,
+
+.logo__link,
+
+.section__wrap {
+    display: flex;
+    flex-direction: row;
+}
+
+/* 10 */
+.logo {
+    margin: 0 0 0 5%;
+    width: 5%;/* ширина блока в 10% */
+}
+
+/* 10 */
+.logo__picture,
+
+.main__title,
+
+.section__img {
+    width: 100%;/* ширина в 40% */
+}
+
+/* 10 */
+.menu {
+    width: 40%;/* шрина 40% */
+}
+
+/* 10 */
+.menu,
+
+/*.footer,*/
+
+.main__title,
+
+.section__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* 10 */
+.menu,
+
+.main__text,
+
+.section__title,
+
+.form {
+    font-size: 1.5rem;
+}
+
+/* 10 */
+.menu__link,
+
+.section__title,
+
+.btn {
+    text-decoration: none;/* без декорации нижней */
+}
+
+
+.section__title {
+    color: rgb(188, 14, 129);
+}
+
+
+.main__btn {
+    margin: 10% 0 2% 35%;
+}
+
+
+.menu__link,
+
+h1,
+
+h2,
+
+p,
+
+.main__text {
+    color: white;
+}
+
+
+.menu__link:hover,
+
+h1 {
+    text-shadow: 0 0 10px rgb(245, 59, 189),0 0 20px rgb(245, 59, 189),0 0 30px rgb(245, 59, 189),0 0 40px rgb(245, 59, 189);
+}
+
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+/* 1 */
+h1,
+/* 10 */
+.main__pic,
+/* 10 */
+.section__section,
+/* 10 */
+.section__footer {
+    margin: 4%;
+}
+
+
+h2 {
+    padding: 1% 0 2% 2%;
+    font-size: 2rem;
+}
+
+
+.main__text,
+
+.btn,
+
+.footer,
+
+.main--spesial {
+    background-color: rgb(188, 14, 129);
+    padding: 1%;
+}
+
+
+.main__pic {
+    width: 60%;
+}
+
+
+h2,
+
+.main__text p,
+
+.form {
+    margin: 2% 20% 0 20%;
+}
+
+
+.section__section {
+    width: 20%;
+}
+
+
+.main--spesial {
+    margin: 0 16% 0 16%;
+    padding: 5% 0 5% 0;
+}
